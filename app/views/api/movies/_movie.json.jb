@@ -1,0 +1,8 @@
+{
+  title: movie.title,
+  director: movie.director,
+  genre: movie.genre,
+  year: movie.year,
+  rating: movie.rating
+
+}
